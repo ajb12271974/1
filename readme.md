@@ -1,6 +1,5 @@
 <html>
   <body>
-      <img src="/untitled.png" height = 333 width = 333 align = left>
       <br>
       <img src="/me.jpg" height = 333 width = 333 align = right>
       <br>
