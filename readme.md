@@ -1,10 +1,10 @@
 <html>
   <body>
-      <img src="/untitled.png">
+      <img src="/untitled.png" align = center>
       <br>
-      <img src="/me.jpg">
+      <img src="/me.jpg" align = center>
       <br>
-      <img src="/ValuesActions.png">
+      <img src="/ValuesActions.png" align = center>
       <br>
  </body>
 </html>
